@@ -1,0 +1,24 @@
+{
+  "currentBook": {
+    "title": "The Hesitation",
+    "author": "AutoScribe",
+    "status": "published",
+    "startedAt": "2026-02-15",
+    "completedAt": "2026-02-16",
+    "phase": "complete",
+    "wordCount": 42463,
+    "rating": "88/100"
+  },
+  "phases": {
+    "konzept": "done",
+    "charaktere": "done",
+    "beats": "done",
+    "outline": "done",
+    "draft": "done",
+    "lektorat": "done",
+    "cover": "done",
+    "publish": "done"
+  },
+  "lastUpdated": "2026-02-16T18:08:00Z",
+  "notes": "Buch 'The Hesitation' vollständig abgeschlossen."
+}
